@@ -1,3 +1,4 @@
+![logo](https://github.com/rajat-chourasiya/rajat-chourasiya/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Rajat Chourasiya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
