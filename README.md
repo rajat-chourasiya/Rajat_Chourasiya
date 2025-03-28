@@ -29,7 +29,7 @@
 
 <p align = "center">
  <img align="left" width= "450" src="https://github-readme-stats.vercel.app/api?username=rajat-chourasiya&show_icons=true&locale=en" alt="rajat-chourasiya" /> 
-</p>
+</p> 
 
 
 
